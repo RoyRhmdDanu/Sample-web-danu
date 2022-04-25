@@ -24,7 +24,6 @@
   </div>
 </nav>
 
-<link href="http://127.0.0.1:8000/assets/css/style.css" rel="stylesheet">
 <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
